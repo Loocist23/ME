@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loocist23" alt="loocist23" /></a> </p>
 
+- 🌱 I’m currently learning **AI with julia ( package: FLUX.jl and LUX.jl )**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/loocist23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loocist23" height="30" width="40" /></a>
